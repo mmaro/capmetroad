@@ -2,7 +2,7 @@
 
 **CapMetroaD (CMD)** is an android application that allows you to comprehensively search Austin Capital Metro Transit bus schedules to get live updates on buses coming to the stops you select.
 
-Produced by: **Mike Aro**
+Produced by: **Mike Aro & Gbolahan Mayowa**
 
 Status: **Work In Progress**
 
